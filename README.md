@@ -1,2 +1,2 @@
 # Loading animation
-This is my resume website 
+This repo includes loading animation 
